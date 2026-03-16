@@ -1,0 +1,7 @@
+C:\Users\raimi\OneDrive\Desktop\Python fundamentals\week-02\src>git log --oneline  
+ce4c60a (HEAD -> main, origin/main) feat: add guess game
+25105a2 feat: add fizzbuzz logic
+3d72d1f feat: add eligibility for services and discounts
+e5926c7 feat: add multifunctional converter of units
+6de5f1a feat: add type explorer with type examples
+795353a git init
